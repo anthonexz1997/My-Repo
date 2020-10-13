@@ -8,9 +8,9 @@ int main(){
 
         cout << "______________MANCIA FARM'S_____________\n\n"<<endl;
         cout << "\t  VEGETABLES\t||\t₱Price  "<< endl;
-        cout << "                             "<< endl;
-        cout << "1\tCarrots    \t||\t₱80   "<< endl;
-        cout << "2\tCabbage    \t||\t₱50      "<< endl;
+        cout << "                            "<< endl;
+        cout << "1\tCarrots\t||\t₱80   "<< endl;
+        cout << "2\tCabbage\t||\t₱50   "<< endl;
         cout << "3\tPotatoes\t||\t₱90  "<< endl;
         cout << "4\tTomatoes\t||\t₱85  "<< endl;
         cout << "                             "<< endl;
